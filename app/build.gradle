@@ -5,7 +5,6 @@ plugins {
 
 android {
     compileSdkVersion 29
-    buildToolsVersion "47.0.0"
 
     defaultConfig {
         applicationId "com.alirnp.debugutils"
@@ -28,6 +27,8 @@ android {
         targetCompatibility JavaVersion.VERSION_1_8
     }
 }
+
+
 
 dependencies {
 
